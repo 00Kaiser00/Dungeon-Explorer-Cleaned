@@ -33,7 +33,7 @@ function Dashboard({setGameState}) {
 
   const [coins, setCoins] = useState(() => {
     const savedCoins = localStorage.getItem("coins");
-    return savedCoins ? JSON.parse(savedCoins) : 100;
+    return savedCoins ? JSON.parse(savedCoins) : 10;
   });
 
   const [currentItems, setCurrentItems] = useState(() => {
@@ -68,7 +68,7 @@ function Dashboard({setGameState}) {
         health: 10,
         mana: 5,
         magic: 0,
-        attack: 5,
+        attack: 0,
         defense: 0,
         img: "/Pixel Art/Misc/Player Right.png",
     };
