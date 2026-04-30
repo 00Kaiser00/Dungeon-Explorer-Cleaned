@@ -1,0 +1,405 @@
+{
+    "spells":
+    [
+        {
+            "name": "Spark",
+            "id": 1,
+            "img": "/Pixel Art/Misc/Fire Element.png",
+            "minDamage": 3,
+            "maxDamage": 4,
+            "rarity": "Common",
+            "spellElement": "Fire",
+            "manaCost": 1
+        }, 
+        {
+            "name": "Pebble Shot",
+            "id": 2,
+            "img": "/Pixel Art/Misc/Earth Element.png",
+            "minDamage": 3,
+            "maxDamage": 4,
+            "rarity": "Common",
+            "spellElement": "Earth",
+            "manaCost": 1
+        },
+        {
+            "name": "Breeze",
+            "id": 3,
+            "img": "/Pixel Art/Misc/Wind Element.png",
+            "minDamage": 3,
+            "maxDamage": 4,
+            "rarity": "Common",
+            "spellElement": "Wind",
+            "manaCost": 1
+        },
+        {
+            "name": "Bubble",
+            "id": 4,
+            "img": "/Pixel Art/Misc/Water Element.png",
+            "minDamage": 3,
+            "maxDamage": 4,
+            "rarity": "Common",
+            "spellElement": "Water",
+            "manaCost": 1
+        },
+        {
+            "name": "Fireball",
+            "id": 5,
+            "img": "/Pixel Art/Misc/Fire Element.png",
+            "minDamage": 5,
+            "maxDamage": 6,
+            "rarity": "Uncommon",
+            "spellElement": "Fire",
+            "manaCost": 1
+        },
+        {
+            "name": "Rock Shot",
+            "id": 6,
+            "img": "/Pixel Art/Misc/Earth Element.png",
+            "minDamage": 5,
+            "maxDamage": 6,
+            "rarity": "Uncommon",
+            "spellElement": "Earth",
+            "manaCost": 1
+        },
+        {
+            "name": "Harsh Wind",
+            "id": 7,
+            "img": "/Pixel Art/Misc/Wind Element.png",
+            "minDamage": 5,
+            "maxDamage": 6,
+            "rarity": "Uncommon",
+            "spellElement": "Wind",
+            "manaCost": 1
+        },
+        {
+            "name": "Water Cutter",
+            "id": 8,
+            "img": "/Pixel Art/Misc/Water Element.png",
+            "minDamage": 5,
+            "maxDamage": 6,
+            "rarity": "Uncommon",
+            "spellElement": "Water",
+            "manaCost": 1
+        },
+        {
+            "name": "Greater Fireball",
+            "id": 9,
+            "img": "/Pixel Art/Misc/Fire Element.png",
+            "minDamage": 7,
+            "maxDamage": 8,
+            "rarity": "Rare",
+            "spellElement": "Fire",
+            "manaCost": 2
+        },
+        {
+            "name": "Greater Rock Shot",
+            "id": 10,
+            "img": "/Pixel Art/Misc/Earth Element.png",
+            "minDamage": 7,
+            "maxDamage": 8,
+            "rarity": "Rare",
+            "spellElement": "Earth",
+            "manaCost": 2
+        },
+        {
+            "name": "Greater Harsh Wind",
+            "id": 11,
+            "img": "/Pixel Art/Misc/Wind Element.png",
+            "minDamage": 7,
+            "maxDamage": 8,
+            "rarity": "Rare",
+            "spellElement": "Wind",
+            "manaCost": 2
+        },
+        {
+            "name": "Greater Water Cutter",
+            "id": 12,
+            "img": "/Pixel Art/Misc/Water Element.png",
+            "minDamage": 7,
+            "maxDamage": 8,
+            "rarity": "Rare",
+            "spellElement": "Water",
+            "manaCost": 2
+        },
+        {
+            "name": "Multi Fireball",
+            "id": 13,
+            "img": "/Pixel Art/Misc/Fire Element.png",
+            "minDamage": 9,
+            "maxDamage": 10,
+            "rarity": "Epic",
+            "spellElement": "Fire",
+            "manaCost": 2
+        },
+        {
+            "name": "Boulder Shot",
+            "id": 14,
+            "img": "/Pixel Art/Misc/Earth Element.png",
+            "minDamage": 9,
+            "maxDamage": 10,
+            "rarity": "Epic",
+            "spellElement": "Earth",
+            "manaCost": 2
+        },
+        {
+            "name": "Tornado",
+            "id": 15,
+            "img": "/Pixel Art/Misc/Wind Element.png",
+            "minDamage": 9,
+            "maxDamage": 10,
+            "rarity": "Epic",
+            "spellElement": "Wind",
+            "manaCost": 2
+        },
+        {
+            "name": "Water Cannon",
+            "id": 16,
+            "img": "/Pixel Art/Misc/Water Element.png",
+            "minDamage": 9,
+            "maxDamage": 10,
+            "rarity": "Epic",
+            "spellElement": "Water",
+            "manaCost": 2
+        },
+        {
+            "name": "Greater Multi Fireball",
+            "id": 17,
+            "img": "/Pixel Art/Misc/Fire Element.png",
+            "minDamage": 11,
+            "maxDamage": 12,
+            "rarity": "Legendary",
+            "spellElement": "Fire",
+            "manaCost": 3
+        },
+        {
+            "name": "Greater Boulder Shot",
+            "id": 18,
+            "img": "/Pixel Art/Misc/Earth Element.png",
+            "minDamage": 11,
+            "maxDamage": 12,
+            "rarity": "Legendary",
+            "spellElement": "Earth",
+            "manaCost": 3
+        },
+        {
+            "name": "Greater Tornado",
+            "id": 19,
+            "img": "/Pixel Art/Misc/Wind Element.png",
+            "minDamage": 11,
+            "maxDamage": 12,
+            "rarity": "Legendary",
+            "spellElement": "Wind",
+            "manaCost": 3
+        },
+        {
+            "name": "Greater Water Cannon",
+            "id": 20,
+            "img": "/Pixel Art/Misc/Water Element.png",
+            "minDamage": 11,
+            "maxDamage": 12,
+            "rarity": "Legendary",
+            "spellElement": "Water",
+            "manaCost": 3
+        },
+        {
+            "name": "Snowball",
+            "id": 21,
+            "img": "/Pixel Art/Misc/Ice Element.png",
+            "minDamage": 3,
+            "maxDamage": 4,
+            "rarity": "Common",
+            "spellElement": "Ice",
+            "manaCost": 1
+        },
+        {
+            "name": "Shock",
+            "id": 22,
+            "img": "/Pixel Art/Misc/Lightning Element.png",
+            "minDamage": 3,
+            "maxDamage": 4,
+            "rarity": "Common",
+            "spellElement": "Lightning",
+            "manaCost": 1
+        },
+        {
+            "name": "Flash",
+            "id": 23,
+            "img": "/Pixel Art/Misc/Light Element.png",
+            "minDamage": 3,
+            "maxDamage": 4,
+            "rarity": "Common",
+            "spellElement": "Light",
+            "manaCost": 1
+        },
+        {
+            "name": "Shade",
+            "id": 24,
+            "img": "/Pixel Art/Misc/Dark Element.png",
+            "minDamage": 3,
+            "maxDamage": 4,
+            "rarity": "Common",
+            "spellElement": "Dark",
+            "manaCost": 1
+        },
+        {
+            "name": "Frost",
+            "id": 25,
+            "img": "/Pixel Art/Misc/Ice Element.png",
+            "minDamage": 5,
+            "maxDamage": 6,
+            "rarity": "Uncommon",
+            "spellElement": "Ice",
+            "manaCost": 1
+        },
+        {
+            "name": "Lightning Bolt",
+            "id": 26,
+            "img": "/Pixel Art/Misc/Lightning Element.png",
+            "minDamage": 5,
+            "maxDamage": 6,
+            "rarity": "Uncommon",
+            "spellElement": "Lightning",
+            "manaCost": 1
+        },
+        {
+            "name": "Light",
+            "id": 27,
+            "img": "/Pixel Art/Misc/Light Element.png",
+            "minDamage": 5,
+            "maxDamage": 6,
+            "rarity": "Uncommon",
+            "spellElement": "Light",
+            "manaCost": 1
+        },
+        {
+            "name": "Dark",
+            "id": 28,
+            "img": "/Pixel Art/Misc/Dark Element.png",
+            "minDamage": 5,
+            "maxDamage": 6,
+            "rarity": "Uncommon",
+            "spellElement": "Dark",
+            "manaCost": 1
+        },
+        {
+            "name": "Greater Frost",
+            "id": 29,
+            "img": "/Pixel Art/Misc/Ice Element.png",
+            "minDamage": 7,
+            "maxDamage": 8,
+            "rarity": "Rare",
+            "spellElement": "Ice",
+            "manaCost": 2
+        },
+        {
+            "name": "Greater Lightning Bolt",
+            "id": 30,
+            "img": "/Pixel Art/Misc/Lightning Element.png",
+            "minDamage": 7,
+            "maxDamage": 8,
+            "rarity": "Rare",
+            "spellElement": "Lightning",
+            "manaCost": 2
+        },
+        {
+            "name": "Greater Light",
+            "id": 31,
+            "img": "/Pixel Art/Misc/Light Element.png",
+            "minDamage": 7,
+            "maxDamage": 8,
+            "rarity": "Rare",
+            "spellElement": "Light",
+            "manaCost": 2
+        },
+        {
+            "name": "Greater Dark",
+            "id": 32,
+            "img": "/Pixel Art/Misc/Dark Element.png",
+            "minDamage": 7,
+            "maxDamage": 8,
+            "rarity": "Rare",
+            "spellElement": "Dark",
+            "manaCost": 2
+        },
+        {
+            "name": "Snow Storm",
+            "id": 33,
+            "img": "/Pixel Art/Misc/Ice Element.png",
+            "minDamage": 9,
+            "maxDamage": 10,
+            "rarity": "Epic",
+            "spellElement": "Ice",
+            "manaCost": 2
+        },
+        {
+            "name": "Multi Lightning Bolt",
+            "id": 34,
+            "img": "/Pixel Art/Misc/Lightning Element.png",
+            "minDamage": 9,
+            "maxDamage": 10,
+            "rarity": "Epic",
+            "spellElement": "Lightning",
+            "manaCost": 2
+        },
+        {
+            "name": "Holy Light",
+            "id": 35,
+            "img": "/Pixel Art/Misc/Light Element.png",
+            "minDamage": 9,
+            "maxDamage": 10,
+            "rarity": "Epic",
+            "spellElement": "Light",
+            "manaCost": 2
+        },
+        {
+            "name": "Theature of Despair",
+            "id": 36,
+            "img": "/Pixel Art/Misc/Dark Element.png",
+            "minDamage": 9,
+            "maxDamage": 10,
+            "rarity": "Epic",
+            "spellElement": "Dark",
+            "manaCost": 2
+        },
+        {
+            "name": "Greater Snow Storm",
+            "id": 37,
+            "img": "/Pixel Art/Misc/Ice Element.png",
+            "minDamage": 11,
+            "maxDamage": 12,
+            "rarity": "Legendary",
+            "spellElement": "Ice",
+            "manaCost": 3
+        },
+        {
+            "name": "Greater Multi Lightning Bolt",
+            "id": 38,
+            "img": "/Pixel Art/Misc/Lightning Element.png",
+            "minDamage": 11,
+            "maxDamage": 12,
+            "rarity": "Legendary",
+            "spellElement": "Lightning",
+            "manaCost": 3
+        },
+        {
+            "name": "Greater Holy Light",
+            "id": 39,
+            "img": "/Pixel Art/Misc/Light Element.png",
+            "minDamage": 11,
+            "maxDamage": 12,
+            "rarity": "Legendary",
+            "spellElement": "Light",
+            "manaCost": 3
+        },
+        {
+            "name": "Graeter Theater of Despair",
+            "id": 40,
+            "img": "/Pixel Art/Misc/Dark Element.png",
+            "minDamage": 11,
+            "maxDamage": 12,
+            "rarity": "Legendary",
+            "spellElement": "Dark",
+            "manaCost": 3
+        }
+    ]
+}

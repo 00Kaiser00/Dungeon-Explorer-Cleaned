@@ -1,0 +1,81 @@
+{
+    "traps": [
+        {
+            "name": "Spike Trap 1",
+            "id": 1,
+            "effect": "Lose 5 health.",
+            "description": "While you where sleeping, a goblin attacked you and did 5 damage.",
+            "danger": 1
+        },
+        {
+            "name": "Spike Trap 2",
+            "id": 2,
+            "effect": "Lose 10 health.",
+            "description": "While you where sleeping, a goblin attacked you and did 10 damage.",
+            "danger": 2
+        },
+        {
+            "name": "Spike Trap 3",
+            "id": 3,
+            "effect": "Lose 15 health.",
+            "description": "While you where sleeping, a goblin attacked you and did 15 damage.",
+            "danger": 3
+        },
+        {
+            "name": "Energy Drain 1",
+            "id": 4,
+            "effect": "Lose 2 mana.",
+            "description": "While you where sleeping, a golem drained 2 mana.",
+            "danger": 4
+        },
+        {
+            "name": "Energy Drain 2",
+            "id": 5,
+            "effect": "Lose 5 mana.",
+            "description": "While you where sleeping, a golem drained 5 mana.",
+            "danger": 5
+        },
+        {
+            "name": "Energy Drain 3",
+            "id": 6,
+            "effect": "Lose 8 mana.",
+            "description": "While you where sleeping, a golem drained 8 mana.",
+            "danger": 6
+        },
+        {
+            "name": "Thief 1",
+            "id": 7,
+            "effect": "Lose 5 gold.",
+            "description": "While you where sleeping, a goblin stole 5 gold.",
+            "danger": 1
+        },
+        {
+            "name": "Thief 2",
+            "id": 8,
+            "effect": "Lose 10 gold.",
+            "description": "While you where sleeping, a goblin stole 10 gold.",
+            "danger": 2
+        },
+        {
+            "name": "Thief 3",
+            "id": 9,
+            "effect": "Lose 20 gold.",
+            "description": "While you where sleeping, a goblin stole 20 gold.",
+            "danger": 3
+        },
+        {
+            "name": "Weapon Break",
+            "id": 10,
+            "effect": "Lose a random weapon.",
+            "description": "While you where sleeping, a goblin stole a weapon.",
+            "danger": 3
+        },
+        {
+            "name": "Mind Break",
+            "id": 11,
+            "effect": "Lose a random spell.",
+            "description": "While you where sleeping, a fish man made you forget a spell.",
+            "danger": 3
+        }
+    ]
+}

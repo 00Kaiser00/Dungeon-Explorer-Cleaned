@@ -1,0 +1,215 @@
+{
+  "floors": [
+    {
+      "id": 1,
+      "tileCounts": {
+        "dungeon": 0,
+        "enemy": 2,
+        "treasure": 1,
+        "shop": 2,
+        "boss": 1,
+        "skill": 1,
+        "library": 1,
+        "trap": 1,
+        "stairs": 0
+      },
+      "tiles": [
+        { "type": "dungeon", "img": "/Pixel Art/Tiles/Grass Tile.png" },
+        { "type": "enemy", "img": "/Pixel Art/Tiles/Grass Enemy Tile.png" },
+        { "type": "shop", "img": "/Pixel Art/Tiles/Grass Shop Tile.png" },
+        { "type": "treasure", "img": "/Pixel Art/Tiles/Grass Treasure Tile.png" },
+        { "type": "boss", "img": "/Pixel Art/Tiles/Grass Boss Tile.png" },
+        { "type": "skill", "img": "/Pixel Art/Tiles/Grass Training Tile.png" },
+        { "type": "stairs", "img": "/Pixel Art/Tiles/Grass Stairs Tile.png" },
+        { "type": "rest", "img": "/Pixel Art/Tiles/Grass Rest Tile.png" },
+        { "type": "library", "img": "/Pixel Art/Tiles/Grass Library Tile.png" },
+        { "type": "trap", "img": "/Pixel Art/Tiles/Grass Trap Tile.png" }
+      ]
+    },
+    {
+      "id": 2,
+      "tileCounts": {
+        "dungeon": 3,
+        "enemy": 2,
+        "treasure": 2,
+        "shop": 2,
+        "boss": 1,
+        "skill": 1,
+        "library": 3,
+        "trap": 2,
+        "stairs": 0
+      },
+      "tiles": [
+        { "type": "dungeon", "img": "/Pixel Art/Tiles/Path Tile.png" },
+        { "type": "enemy", "img": "/Pixel Art/Tiles/Path Enemy Tile.png" },
+        { "type": "shop", "img": "/Pixel Art/Tiles/Path Shop Tile.png" },
+        { "type": "treasure", "img": "/Pixel Art/Tiles/Path Treasure Tile.png" },
+        { "type": "boss", "img": "/Pixel Art/Tiles/Path Boss Tile.png" },
+        { "type": "skill", "img": "/Pixel Art/Tiles/Path Training Tile.png" },
+        { "type": "stairs", "img": "/Pixel Art/Tiles/Path Stairs Tile.png" },
+        { "type": "rest", "img": "/Pixel Art/Tiles/Path Rest Tile.png" },
+        { "type": "library", "img": "/Pixel Art/Tiles/Path Library Tile.png" },
+        { "type": "trap", "img": "/Pixel Art/Tiles/Path Trap Tile.png" }
+      ]
+    },
+    {
+      "id": 3,
+      "tileCounts": {
+        "dungeon": 2,
+        "enemy": 3,
+        "treasure": 2,
+        "shop": 2,
+        "boss": 1,
+        "skill": 1,
+        "library": 3,
+        "trap": 2,
+        "stairs": 0
+      },
+      "tiles": [
+        { "type": "dungeon", "img": "/Pixel Art/Tiles/Dungeon Tile.png" },
+        { "type": "enemy", "img": "/Pixel Art/Tiles/Dungeon Enemy Tile.png" },
+        { "type": "shop", "img": "/Pixel Art/Tiles/Dungeon Shop Tile.png" },
+        { "type": "treasure", "img": "/Pixel Art/Tiles/Dungeon Treasure Tile.png" },
+        { "type": "boss", "img": "/Pixel Art/Tiles/Dungeon Boss Tile.png" },
+        { "type": "skill", "img": "/Pixel Art/Tiles/Dungeon Training Tile.png" },
+        { "type": "stairs", "img": "/Pixel Art/Tiles/Dungeon Stairs Tile.png" },
+        { "type": "rest", "img": "/Pixel Art/Tiles/Dungeon Rest Tile.png" },
+        { "type": "library", "img": "/Pixel Art/Tiles/Dungeon Library Tile.png" },
+        { "type": "trap", "img": "/Pixel Art/Tiles/Dungeon Trap Tile.png" }
+      ]
+    },
+    {
+      "id": 4,
+      "tileCounts": {
+        "dungeon": 1, 
+        "enemy": 3,
+        "treasure": 2,
+        "shop": 2,
+        "boss": 1,
+        "skill": 1,
+        "library": 3,
+        "rest": 0,
+        "druid": 1,
+        "trap": 2,
+        "stairs": 0
+      },
+      "tiles": [
+        { "type": "dungeon", "img": "/Pixel Art/Tiles/Mossy Dungeon Tile.png" },
+        { "type": "enemy", "img": "/Pixel Art/Tiles/Mossy Dungeon Enemy Tile.png" },
+        { "type": "shop", "img": "/Pixel Art/Tiles/Mossy Dungeon Shop Tile.png" },
+        { "type": "treasure", "img": "/Pixel Art/Tiles/Mossy Dungeon Treasure Tile.png" },
+        { "type": "boss", "img": "/Pixel Art/Tiles/Mossy Dungeon Boss Tile.png" },
+        { "type": "skill", "img": "/Pixel Art/Tiles/Mossy Dungeon Training Tile.png" },
+        { "type": "stairs", "img": "/Pixel Art/Tiles/Mossy Dungeon Stairs Tile.png" },
+        { "type": "library", "img": "/Pixel Art/Tiles/Mossy Dungeon Library Tile.png" },
+        { "type": "rest", "img": "/Pixel Art/Tiles/Mossy Dungeon Rest Tile.png" },
+        { "type": "druid", "img": "/Pixel Art/Tiles/Mossy Dungeon Druid Tile.png" },
+        { "type": "trap", "img": "/Pixel Art/Tiles/Mossy Dungeon Trap Tile.png" }
+      ]
+    },
+    {
+      "id": 5,
+      "tileCounts": {
+        "dungeon": 1,
+        "enemy": 4,
+        "treasure": 2,
+        "shop": 2,
+        "boss": 1,
+        "skill": 1,
+        "library": 3,
+        "trap": 2,
+        "stairs": 0
+      },
+      "tiles": [
+        { "type": "dungeon", "img": "/Pixel Art/Tiles/Cave Tile.png" },
+        { "type": "enemy", "img": "/Pixel Art/Tiles/Cave Enemy Tile.png" },
+        { "type": "shop", "img": "/Pixel Art/Tiles/Cave Shop Tile.png" },
+        { "type": "treasure", "img": "/Pixel Art/Tiles/Cave Treasure Tile.png" },
+        { "type": "boss", "img": "/Pixel Art/Tiles/Cave Boss Tile.png" },
+        { "type": "skill", "img": "/Pixel Art/Tiles/Cave Training Tile.png" },
+        { "type": "stairs", "img": "/Pixel Art/Tiles/Cave Stairs Tile.png" },
+        { "type": "library", "img": "/Pixel Art/Tiles/Cave Library Tile.png" },
+        { "type": "rest", "img": "/Pixel Art/Tiles/Cave Rest Tile.png" },
+        { "type": "trap", "img": "/Pixel Art/Tiles/Cave Trap Tile.png" }
+      ]
+    },
+    {
+      "id": 6,
+      "tileCounts": {
+        "dungeon": 1,
+        "enemy": 4,
+        "treasure": 2,
+        "shop": 2,
+        "boss": 1,
+        "skill": 1,
+        "library": 3,
+        "trap": 2,
+        "stairs": 0
+      },
+      "tiles": [
+        { "type": "dungeon", "img": "/Pixel Art/Tiles/Underground Lake Tile.png" },
+        { "type": "enemy", "img": "/Pixel Art/Tiles/Underground Lake Enemy Tile.png" },
+        { "type": "shop", "img": "/Pixel Art/Tiles/Underground Lake Shop Tile.png" },
+        { "type": "treasure", "img": "/Pixel Art/Tiles/Underground Lake Treasure Tile.png" },
+        { "type": "boss", "img": "/Pixel Art/Tiles/Underground Lake Boss Tile.png" },
+        { "type": "skill", "img": "/Pixel Art/Tiles/Underground Lake Training Tile.png" },
+        { "type": "stairs", "img": "/Pixel Art/Tiles/Underground Lake Stairs Tile.png" },
+        { "type": "library", "img": "/Pixel Art/Tiles/Underground Lake Library Tile.png" },
+        { "type": "rest", "img": "/Pixel Art/Tiles/Underground Lake Rest Tile.png" },
+        { "type": "trap", "img": "/Pixel Art/Tiles/Underground Lake Trap Tile.png" }
+      ]
+    },
+    {
+      "id": 7,
+      "tileCounts": {
+        "dungeon": 1,
+        "enemy": 4,
+        "treasure": 2,
+        "shop": 2,
+        "boss": 1,
+        "skill": 1,
+        "library": 3,
+        "trap": 2,
+        "stairs": 0
+      },
+      "tiles": [
+        { "type": "dungeon", "img": "/Pixel Art/Tiles/Ocean Tile.png" },
+        { "type": "enemy", "img": "/Pixel Art/Tiles/Ocean Enemy Tile.png" },
+        { "type": "shop", "img": "/Pixel Art/Tiles/Ocean Shop Tile.png" },
+        { "type": "treasure", "img": "/Pixel Art/Tiles/Ocean Treasure Tile.png" },
+        { "type": "boss", "img": "/Pixel Art/Tiles/Ocean Boss Tile.png" },
+        { "type": "skill", "img": "/Pixel Art/Tiles/Ocean Training Tile.png" },
+        { "type": "stairs", "img": "/Pixel Art/Tiles/Ocean Stairs Tile.png" },
+        { "type": "library", "img": "/Pixel Art/Tiles/Ocean Library Tile.png" },
+        { "type": "rest", "img": "/Pixel Art/Tiles/Ocean Rest Tile.png" },
+        { "type": "trap", "img": "/Pixel Art/Tiles/Ocean Trap Tile.png" }
+      ]
+    },
+    {
+      "id": 8,
+      "tileCounts": {
+        "dungeon": 1,
+        "enemy": 4,
+        "treasure": 2,
+        "shop": 2,
+        "boss": 1,
+        "skill": 1,
+        "library": 3,
+        "trap": 2,
+        "stairs": 0
+      },
+      "tiles": [
+        { "type": "dungeon", "img": "/Pixel Art/Tiles/Abyss Tile.png" },
+        { "type": "enemy", "img": "/Pixel Art/Tiles/Abyss Enemy Tile.png" },
+        { "type": "shop", "img": "/Pixel Art/Tiles/Abyss Shop Tile.png" },
+        { "type": "treasure", "img": "/Pixel Art/Tiles/Abyss Treasure Tile.png" },
+        { "type": "boss", "img": "/Pixel Art/Tiles/Abyss Boss Tile.png" },
+        { "type": "skill", "img": "/Pixel Art/Tiles/Abyss Training Tile.png" },
+        { "type": "stairs", "img": "/Pixel Art/Tiles/Abyss Stairs Tile.png" },
+        { "type": "library", "img": "/Pixel Art/Tiles/Abyss Library Tile.png" },
+        { "type": "rest", "img": "/Pixel Art/Tiles/Abyss Rest Tile.png" },
+        { "type": "trap", "img": "/Pixel Art/Tiles/Abyss Trap Tile.png" }
+      ]
+    }
+  ]
+}

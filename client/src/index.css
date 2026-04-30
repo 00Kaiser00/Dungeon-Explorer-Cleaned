@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'PixelFont';
+  src: url(./fonts/static/PixelifySans-Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+.text {
+  font-family: 'PixelFont';
+}
+
+@keyframes floatDown {
+  0% {
+    opacity: 1;
+    transform: translateY(-20px) scale(1.2);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(40px) scale(0.8);
+  }
+}
+
+.animate-fall {
+  animation: floatDown 2s ease-out forwards;
+}
+
+/* Hide scrollbar but keep scroll functionality */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* for Internet Explorer */
+  scrollbar-width: none;     /* for Firefox */
+}
+
+@keyframes fade-up {
+  0% {
+    opacity: 1;
+    transform: translate(-50%, -100%) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -200%) scale(1.2);
+  }
+}
+
+.animate-fade-up {
+  animation: fade-up 1s ease-out forwards;
+}
+
+@keyframes shake {
+  10%, 30%, 50%, 70%, 90% {
+    transform: translateX(-5px);
+  }
+  20%, 40%, 60%, 80% {
+    transform: translateX(5px);
+  }
+  0%, 100% {
+    transform: translateX(0);
+  }
+}
+
+.animate-shake {
+  animation: shake 0.25s ease-in-out;
+}

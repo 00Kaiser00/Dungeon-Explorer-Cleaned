@@ -1,0 +1,60 @@
+{
+    "grimoires": [
+        {
+            "name": "Fire Grimoire",
+            "id": 1,
+            "img": "/Pixel Art/Grimoire/Fire Grimoire.png",
+            "element": "Fire",
+            "description": "By using this grimoire, you can learn a random fire spell."
+        },
+        {
+            "name": "Earth Grimoire",
+            "id": 2,
+            "img": "/Pixel Art/Grimoire/Earth Grimoire.png",
+            "element": "Earth",
+            "description": "By using this grimiore, you can learn a random earth spell."
+        },
+        {
+            "name": "Wind Grimoire",
+            "id": 3,
+            "img": "/Pixel Art/Grimoire/Wind Grimoire.png",
+            "element": "Wind",
+            "description": "By using this grimoire, you can learn a random wind spell."
+        },
+        {
+            "name": "Water Grimoire",
+            "id": 4,
+            "img": "/Pixel Art/Grimoire/Water Grimoire.png",    
+            "element": "Water",
+            "description": "By using this grimoire, you can learn a random water spell."
+        },
+        {
+            "name": "Light Grimoire",
+            "id": 5,
+            "img": "/Pixel Art/Grimoire/Light Grimoire.png",
+            "element": "Light",
+            "description": "By using this grimoire, you can learn a random light spell."
+        },
+        {
+            "name": "Dark Grimoire",
+            "id": 6,
+            "img": "/Pixel Art/Grimoire/Dark Grimoire.png",
+            "element": "Dark",
+            "description": "By using this grimoire, you can learn a random dark spell."
+        },
+        {
+            "name": "Ice Grimoire",
+            "id": 7,
+            "img": "/Pixel Art/Grimoire/Ice Grimoire.png",
+            "element": "Ice",
+            "description": "By using this grimoire, you can learn a random ice spell."
+        },
+        {
+            "name": "Lightning Grimoire",
+            "id": 8,
+            "img": "/Pixel Art/Grimoire/Lightning Grimoire.png",
+            "element": "Lightning",
+            "description": "By using this grimoire, you can learn a random lightning spell."
+        }
+    ]
+}

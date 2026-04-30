@@ -1,0 +1,284 @@
+{
+    "weapons": [
+        {
+            "name": "Common Sword",
+            "id": 2,
+            "img": "/Pixel Art/Sword/Sword Common 2.png",
+            "minDamage": 2,
+            "maxDamage": 3,
+            "rarity": "Common",
+            "weaponType": "Sword",
+            "attackCooldown": 3
+
+        },
+        {
+            "name": "Uncommon Sword",
+            "id": 3,
+            "img": "/Pixel Art/Sword/Sword Uncommon 2.png",
+            "minDamage": 3,
+            "maxDamage": 4,
+            "rarity": "Uncommon",
+            "weaponType": "Sword",
+            "attackCooldown": 3
+
+        },
+        {
+            "name": "Rare Sword",
+            "id": 4,
+            "img": "/Pixel Art/Sword/Sword Rare 2.png",
+            "minDamage": 4,
+            "maxDamage": 5,
+            "rarity": "Rare",
+            "weaponType": "Sword",
+            "attackCooldown": 3
+
+        },
+        {
+            "name": "Epic Sword",
+            "id": 5,
+            "img": "/Pixel Art/Sword/Sword Epic 2.png",
+            "minDamage": 5,
+            "maxDamage": 6,
+            "rarity": "Epic",
+            "weaponType": "Sword",
+            "attackCooldown": 3
+
+        },
+        {
+            "name": "Legendary Sword",
+            "id": 6,
+            "img": "/Pixel Art/Sword/Sword Legendary 2.png",
+            "minDamage": 6,
+            "maxDamage": 7,
+            "rarity": "Legendary",
+            "weaponType": "Sword",
+            "attackCooldown": 3
+
+        },
+        {
+            "name": "Knife",
+            "id": 7,
+            "img": "/Pixel Art/Knife/Knife.png",
+            "minDamage": 0,
+            "maxDamage": 1,
+            "rarity": "Dull",
+            "weaponType": "Knife",
+            "attackCooldown": 2
+        },
+        {
+            "name": "Common Knife",
+            "id": 8,
+            "img": "/Pixel Art/Knife/Knife Common.png",
+            "minDamage": 1,
+            "maxDamage": 2,
+            "rarity": "Common",
+            "weaponType": "Knife",
+            "attackCooldown": 2
+        },
+        {
+            "name": "Uncommon Knife",
+            "id": 9,
+            "img": "/Pixel Art/Knife/Knife Uncommon.png",
+            "minDamage": 2,
+            "maxDamage": 3,
+            "rarity": "Uncommon",
+            "weaponType": "Knife",
+            "attackCooldown": 2
+        },
+        {
+            "name": "Rare Knife",
+            "id": 10,
+            "img": "/Pixel Art/Knife/Knife Rare.png",
+            "minDamage": 3,
+            "maxDamage": 4,
+            "rarity": "Rare",
+            "weaponType": "Knife",
+            "attackCooldown": 2
+        },
+        {
+            "name": "Epic Knife",
+            "id": 11,
+            "img": "/Pixel Art/Knife/Knife Epic.png",
+            "minDamage": 4,
+            "maxDamage": 5,
+            "rarity": "Epic",
+            "weaponType": "Knife",
+            "attackCooldown": 2
+        },
+        {
+            "name": "Legendary Knife",
+            "id": 12,
+            "img": "/Pixel Art/Knife/Knife Legendary.png",
+            "minDamage": 5,
+            "maxDamage": 6,
+            "rarity": "Legendary",
+            "weaponType": "Knife",
+            "attackCooldown": 2
+        },
+        {
+            "name": "Bow",
+            "id": 13,
+            "img": "/Pixel Art/Bow/Bow.png",
+            "minDamage": 1,
+            "maxDamage": 2,
+            "rarity": "Dull",
+            "weaponType": "Bow",
+            "attackCooldown": 3
+        },
+        {
+            "name": "Common Bow",
+            "id": 14,
+            "img": "/Pixel Art/Bow/Bow Common.png",
+            "minDamage": 2,
+            "maxDamage": 3,
+            "rarity": "Common",
+            "weaponType": "Bow",
+            "attackCooldown": 3
+        },
+        {
+            "name": "Uncommon Bow",
+            "id": 15,
+            "img": "/Pixel Art/Bow/Bow Uncommon.png",
+            "minDamage": 3,
+            "maxDamage": 4,
+            "rarity": "Uncommon",
+            "weaponType": "Bow",
+            "attackCooldown": 3
+        },
+        {
+            "name": "Rare Bow",
+            "id": 16,
+            "img": "/Pixel Art/Bow/Bow Rare.png",
+            "minDamage": 4,
+            "maxDamage": 5,
+            "rarity": "Rare",
+            "weaponType": "Bow",
+            "attackCooldown": 3
+        },
+        {
+            "name": "Epic Bow",
+            "id": 17,
+            "img": "/Pixel Art/Bow/Bow Epic.png",
+            "minDamage": 5,
+            "maxDamage": 6,
+            "rarity": "Epic",
+            "weaponType": "Bow",
+            "attackCooldown": 3
+        },
+        {
+            "name": "Legendary Bow",
+            "id": 18,
+            "img": "/Pixel Art/Bow/Bow Legendary.png",
+            "minDamage": 6,
+            "maxDamage": 7,
+            "rarity": "Legendary",
+            "weaponType": "Bow",
+            "attackCooldown": 3
+        },
+        {
+            "name": "Hammer",
+            "id": 19,
+            "img": "/Pixel Art/Hammer/Hammer.png",
+            "minDamage": 3,
+            "maxDamage": 6,
+            "rarity": "Dull",
+            "weaponType": "Hammer",
+            "attackCooldown": 5
+        },
+        {
+            "name": "Common Hammer",
+            "id": 20,
+            "img": "/Pixel Art/Hammer/Hammer Common.png",
+            "minDamage": 3,
+            "maxDamage": 4,
+            "rarity": "Common",
+            "weaponType": "Hammer",
+            "attackCooldown": 5
+        },
+        {
+            "name": "Uncommon Hammer",
+            "id": 21,
+            "img": "/Pixel Art/Hammer/Hammer Uncommon.png",
+            "minDamage": 4,
+            "maxDamage": 5,
+            "rarity": "Uncommon",
+            "weaponType": "Hammer",
+            "attackCooldown": 5
+        },
+        {
+            "name": "Rare Hammer",
+            "id": 22,
+            "img": "/Pixel Art/Hammer/Hammer Rare.png",
+            "minDamage": 5,
+            "maxDamage": 6,
+            "rarity": "Rare",
+            "weaponType": "Hammer",
+            "attackCooldown": 5
+        },
+        {
+            "name": "Epic Hammer",
+            "id": 23,
+            "img": "/Pixel Art/Hammer/Hammer Epic.png",
+            "minDamage": 6,
+            "maxDamage": 7,
+            "rarity": "Epic",
+            "weaponType": "Hammer",
+            "attackCooldown": 5
+        },
+        {
+            "name": "Legendary Hammer",
+            "id": 24,
+            "img": "/Pixel Art/Hammer/Hammer Legendary.png",
+            "minDamage": 7,
+            "maxDamage": 8,
+            "rarity": "Legendary",
+            "weaponType": "Hammer",
+            "attackCooldown": 5
+        },
+        {
+            "name": "Common Shield",
+            "id": 26,
+            "img": "/Pixel Art/Shield/Shield Common.png",
+            "damageReduction": 0.35,
+            "rarity": "Common",
+            "weaponType": "Shield",
+            "defenseCooldown": 5
+        },
+        {
+            "name": "Uncommon Shield",
+            "id": 27,
+            "img": "/Pixel Art/Shield/Shield Uncommon.png",
+            "damageReduction": 0.4,
+            "rarity": "Uncommon",
+            "weaponType": "Shield",
+            "defenseCooldown": 5
+        },
+        {
+            "name": "Rare Shield",
+            "id": 28,
+            "img": "/Pixel Art/Shield/Shield Rare.png",
+            "damageReduction": 0.45,
+            "rarity": "Rare",
+            "weaponType": "Shield",
+            "defenseCooldown": 5
+        },
+        {
+            "name": "Epic Shield",
+            "id": 29,
+            "img": "/Pixel Art/Shield/Shield Epic.png",
+            "damageReduction": 0.5,
+            "rarity": "Epic",
+            "weaponType": "Shield",
+            "defenseCooldown": 5
+        },
+        {
+            "name": "Legendary Shield",
+            "id": 30,
+            "img": "/Pixel Art/Shield/Shield Legendary.png",
+            "damageReduction": 0.55,
+            "rarity": "Legendary",
+            "weaponType": "Shield",
+            "defenseCooldown": 5
+        }
+    ]
+}

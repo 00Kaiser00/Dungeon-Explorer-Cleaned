@@ -1,0 +1,36 @@
+{
+    "druid_items": [
+        {
+            "name": "Bear Potion",
+            "id": 1,
+            "img": "/Pixel Art/Misc/Bear Potion.png.png",
+            "cost": 8,
+            "effect": "Permently transforms you into a bear, increases attack by 2 and increases max health by 5.",
+            "type": "Druid"
+        },
+        {
+            "name": "Turtle Potion",
+            "id": 2,
+            "img": "/Pixel Art/Misc/Turtle Potion.png.png",
+            "cost": 8,
+            "effect": "Permently transforms you into a turtle, increases defense by 2 and increases max health by 5.",
+            "type": "Druid"
+        },
+        {
+            "name": "Lizard Potion",
+            "id": 3,
+            "img": "/Pixel Art/Misc/Lizard Potion.png.png",
+            "cost": 8,
+            "effect": "Permently transforms you into a lizard, and increases max health by 15.",
+            "type": "Druid"
+        },
+        {
+            "name": "Cat Potion",
+            "id": 4,
+            "img": "/Pixel Art/Misc/Cat Potion.png.png",
+            "cost": 8,
+            "effect": "Permently transforms you into a cat, increases magic attack by 4 and increases max mana by 1.",
+            "type": "Druid"
+        }
+    ]
+}

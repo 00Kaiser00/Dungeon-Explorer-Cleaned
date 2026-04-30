@@ -1,0 +1,148 @@
+{
+    "enchantments": [
+        {
+            "name": "Attack Up 1",
+            "id": 1,
+            "description": "Increases damage by 1",
+            "rarity": "Common"
+        },
+        {
+            "name": "Attack Up 2",
+            "id": 2,
+            "description": "Increases damage by 2",
+            "rarity": "Uncommon"
+        },
+        {
+            "name": "Attack Up 3",
+            "id": 3,
+            "description": "Increases damage by 3",
+            "rarity": "Rare"
+        },
+        {
+            "name": "Water Enchantment 1",
+            "id": 4,
+            "description": "Adds 2 water damage to the weapon",
+            "rarity": "Rare"
+        },
+        {
+            "name": "Fire Enchantment 1",
+            "id": 5,
+            "description": "Adds 2 fire damage to the weapon",
+            "rarity": "Rare"
+        },
+        {
+            "name": "Earth Enchantment 1",
+            "id": 6,
+            "description": "Adds 2 earth damage to the weapon",
+            "rarity": "Rare"
+        },
+        {
+            "name": "Wind Enchantment 1",
+            "id": 7,
+            "description": "Adds 2 wind damage to the weapon",
+            "rarity": "Rare"
+        },
+        {
+            "name": "Water Enchantment 2",
+            "id": 8,
+            "description": "Adds 4 water damage to the weapon",
+            "rarity": "Epic"
+        },
+        {
+            "name": "Fire Enchantment 2",
+            "id": 9,
+            "description": "Adds 4 fire damage to the weapon",
+            "rarity": "Epic"
+        },
+        {
+            "name": "Earth Enchantment 2",
+            "id": 10,
+            "description": "Adds 4 earth damage to the weapon",
+            "rarity": "Epic"
+        },
+        {
+            "name": "Wind Enchantment 2",
+            "id": 11,
+            "description": "Adds 4 wind damage to the weapon",
+            "rarity": "Epic"
+        },
+        {
+            "name": "Life Steal 1",
+            "id": 12,
+            "description": "Every hit, steal 2 life",
+            "rarity": "Epic"
+        },
+        {
+            "name": "Life Steal 2",
+            "id": 13,
+            "description": "Every hit, steal 4 life",
+            "rarity": "Legendary"
+        },
+        {
+            "name": "Double Attack",
+            "id": 14,
+            "description": "Every hit, attack twice",
+            "rarity": "Legendary"
+        },
+        {
+            "name": "Half Cooldown 1",
+            "id": 15,
+            "description": "Decrease attack power by 2, but decrease cooldown by half",
+            "rarity": "Epic"
+        },
+        {
+            "name": "Half Cooldown 2",
+            "id": 16,
+            "description": "Decrease attack cooldown by half",
+            "rarity": "Legendary"
+        },
+        {
+            "name": "Ice Enchantment 1",
+            "id": 17,
+            "description": "Adds 2 ice damage to the weapon",
+            "rarity": "Rare"
+        },
+        {
+            "name": "Ice Enchantment 2",
+            "id": 18,
+            "description": "Adds 4 ice damage to the weapon",
+            "rarity": "Epic"
+        },
+        {
+            "name": "Lightning Enchantment 1",
+            "id": 19,
+            "description": "Adds 2 lightning damage to the weapon",
+            "rarity": "Rare"
+        },
+        {
+            "name": "Lightning Enchantment 2",
+            "id": 20,
+            "description": "Adds 4 lightning damage to the weapon",
+            "rarity": "Epic"
+        },
+        {
+            "name": "Dark Enchantment 1",
+            "id": 21,
+            "description": "Adds 2 dark damage to the weapon",
+            "rarity": "Rare"
+        },
+        {
+            "name": "Dark Enchantment 2",
+            "id": 22,
+            "description": "Adds 4 dark damage to the weapon",
+            "rarity": "Epic"
+        },
+        {
+            "name": "Light Enchantment 1",
+            "id": 23,
+            "description": "Adds 2 light damage to the weapon",
+            "rarity": "Rare"
+        },
+        {
+            "name": "Light Enchantment 2",
+            "id": 24,
+            "description": "Adds 4 light damage to the weapon",
+            "rarity": "Epic"
+        }
+    ]
+}

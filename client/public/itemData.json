@@ -1,0 +1,100 @@
+{
+    "items": [
+        {
+            "name": "Health Potion",
+            "id": 1,
+            "img": "/Pixel Art/Misc/Health Potion.png",
+            "cost": 5,
+            "effect": "Restores 5 health",
+            "type": "Normal"
+        },
+        {
+            "name": "Big Health Potion",
+            "id": 2,
+            "img": "/Pixel Art/Misc/Big Health Potion.png.png",
+            "cost": 8,
+            "effect": "Restores 10 health",
+            "type": "Normal"
+        },
+        {
+            "name": "Mana Potion",
+            "id": 3,
+            "img": "/Pixel Art/Misc/Mana Potion.png",
+            "cost": 5,
+            "effect": "Restores 2 mana",
+            "type": "Normal"
+        },
+        {
+            "name": "Big Mana Potion",
+            "id": 4,
+            "img": "/Pixel Art/Misc/Big Mana Potion.png.png",
+            "cost": 8,
+            "effect": "Restores 5 mana",
+            "type": "Normal"
+        },
+        {
+            "name": "Slow Potion",
+            "id": 5,
+            "img": "/Pixel Art/Misc/Slow Potion.png",
+            "cost": 10,
+            "effect": "Increases attack cooldown by 1 for an enemy, for the encounter.",
+            "type": "Combat"
+        },
+        {
+            "name": "Corrosion Potion",
+            "id": 6,
+            "img": "/Pixel Art/Misc/Corrosion Potion.png",
+            "cost": 10,
+            "effect": "Reduces boss shield percentage by %5 for the encounter.",
+            "type": "Combat"
+        },
+        {
+            "name": "Barrier Potion",
+            "id": 7,
+            "img": "/Pixel Art/Misc/Barrier Potion.png",
+            "cost": 10,
+            "effect": "Reduces damage taken by %20 for the encounter.",
+            "type": "Combat"
+        },
+        {
+            "name": "Danger Sense Potion",
+            "id": 8,
+            "img": "/Pixel Art/Misc/Danger Sense Potion.png",
+            "cost": 10,
+            "effect": "Ignore the next trap",
+            "type": "Normal"
+        },
+        {
+            "name": "Poison Potion",
+            "id": 9,
+            "img": "/Pixel Art/Misc/Poison Potion.png",
+            "cost": 10,
+            "effect": "Enemies takes 5 damage every second, for 4 seconds.",
+            "type": "Combat"
+        },
+        {
+            "name": "Acceleration Potion",
+            "id": 10,
+            "img": "/Pixel Art/Misc/Acceleration Potion.png",
+            "cost": 10,
+            "effect": "Reduces player shield cooldown by 1 for the encounter.",
+            "type": "Combat"
+        },
+        {
+            "name": "Fire Bomb",
+            "id": 11,
+            "img": "/Pixel Art/Misc/Fire Bomb.png",
+            "cost": 10,
+            "effect": "Deals 10 damage to all enemies.",
+            "type": "Combat"
+        },
+        {
+            "name": "Fury Potion",
+            "id": 12,
+            "img": "/Pixel Art/Misc/Fury Potion.png",
+            "cost": 10,
+            "effect": "Reduces all Weapon Cooldowns by 1 for the encounter.",
+            "type": "Combat"
+        }
+    ]
+}
